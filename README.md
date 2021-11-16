@@ -28,7 +28,7 @@ Regla 12: Los elementos b aplicar el color blueviolet
 
 Regla 13: Los elementos ul tendrán un color de fondo marrón 
 
-Regla 14: Que los elementos p que sean hijos del h5 tengan un relleno de 3px, este subrayado y tenga de color de fondo lightgoldenrodyellow
+Regla 14: Que los elementos p que sean hijos del ol tengan un relleno de 3px, este subrayado y tenga de color de fondo lightgoldenrodyellow
 
 Regla 15: Que los elementos p que sean hijos directos de algún div tendrán padding-top 3px y margin-left 5px
 
